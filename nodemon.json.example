@@ -1,0 +1,8 @@
+{
+    "env": {
+        "MONGO_USER": "your_user",
+        "MONGO_PASS": "your_password",
+        "MONGO_DBNAME": "your_database",
+        "MONGO_CLUSTER": "your-xxx.mongodb.net"
+    }
+}
