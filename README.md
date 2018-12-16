@@ -12,7 +12,7 @@ npm start
 
 ## Configurations
 * Signup mongodb clusters https://cloud.mongodb.com
-* Rename nodemonjson.example to nodemonjson and config that
+* Rename nodemon.json.example to nodemon.json and then config that
 
 ## Status Project
 * initial
