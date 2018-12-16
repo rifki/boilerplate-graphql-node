@@ -1,5 +1,6 @@
 Boilerplate GraphQL x Node
 ============================
+## Installation
 ```sh
 npm install
 ```
